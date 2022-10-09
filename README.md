@@ -2,7 +2,7 @@
 data-platform-distribution-channel-sql は、データ連携基盤において、流通チャネルデータを維持管理するSQLテーブルを作成するためのレポジトリです。  
 
 ## 前提条件  
-data-platform-distribution-channel-sql は、データ連携にあたり、API を利用し、本レポジトリ の sql 設定ファイルの内容は、下記 URL の API 仕様を前提としています。
+data-platform-distribution-channel-sql は、データ連携にあたり、API を利用し、本レポジトリ の sql 設定ファイルの内容は、下記 URL の API 仕様を前提としています。  
 https://api.XXXXXXXX.com/api/OP_API_XXXXXXX_XXX/overview  
 
 ## sqlの設定ファイル
